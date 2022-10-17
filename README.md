@@ -1,2 +1,3 @@
-# portfolio
-a portfolio site with three.js graphics
+## How to Run
+1. Clone the repository
+2. `npm run dev` to run
